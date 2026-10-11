@@ -1,9 +1,9 @@
-# stop-describe-ui
+# stop-describing-ui
 
 An agent skill that strips explanatory copy out of user interfaces.
 
 ```sh
-npx skills add artouc/stop-describe-ui
+npx skills add artouc/stop-describing-ui
 ```
 
 ## Before and after

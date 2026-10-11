@@ -1,4 +1,4 @@
-# stop-describe-ui
+# stop-describing-ui
 
 ## コミットメッセージ
 

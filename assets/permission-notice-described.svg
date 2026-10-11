@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="285" viewBox="0 0 420 285" role="img" aria-labelledby="t"><title id="t">Permission notice, described</title><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}
+.label{font-size:12px;font-weight:600;fill:#656d76;letter-spacing:.04em}
+.card{fill:#ffffff;stroke:#d0d7de}
+.h1{font-size:20px;font-weight:600}
+.h2{font-size:15px;font-weight:600}
+.t{font-size:14px}
+.m{fill:#656d76}
+.strong{font-weight:600}
+.btn{fill:#1f2328}
+.btnt{fill:#ffffff;font-size:14px;font-weight:600}
+.ico{fill:none;stroke:#656d76;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.btnico{fill:none;stroke:#ffffff;stroke-width:1.75;stroke-linecap:round}
+.on{fill:#1f883d}
+.knob{fill:#ffffff}
+.rule{stroke:#d8dee4}
+.field{fill:#f6f8fa;stroke:#d0d7de}
+@media (prefers-color-scheme:dark){
+text{fill:#e6edf3}
+.label,.m{fill:#8b949e}
+.card{fill:#0d1117;stroke:#30363d}
+.btn{fill:#e6edf3}
+.btnt{fill:#0d1117}
+.ico{stroke:#8b949e}
+.btnico{stroke:#0d1117}
+.on{fill:#238636}
+.rule{stroke:#21262d}
+.field{fill:#161b22;stroke:#30363d}
+}
+</style><text x="2" y="14" class="label">DESCRIBED</text><rect x="0.5" y="28.5" width="419" height="255" rx="10" class="card"/><rect x="24" y="52" width="372" height="36" rx="6" class="field"/><g transform="translate(36 62)"><g class="ico"><circle cx="7" cy="7" r="4.5"/><path d="M10.5 10.5 14 14"/></g></g><text x="60" y="75" class="t m">Search all stores</text><text x="24" y="120" class="t m">Searches across all stores and shows the</text><text x="24" y="140" class="t m">results. Stores you don&#x27;t belong to are shown</text><text x="24" y="160" class="t m">as Operator, and every action records who did</text><text x="24" y="180" class="t m">what in which store. You can&#x27;t change</text><text x="24" y="200" class="t m">applications, payment methods, or plans, or</text><text x="24" y="220" class="t m">send messages to customers (replies,</text><text x="24" y="240" class="t m">approving or declining tentative</text><text x="24" y="260" class="t m">reservations).</text></svg>

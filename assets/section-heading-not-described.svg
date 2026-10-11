@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="217" viewBox="0 0 420 217" role="img" aria-labelledby="t"><title id="t">Section heading, not described</title><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}
+.label{font-size:12px;font-weight:600;fill:#656d76;letter-spacing:.04em}
+.card{fill:#ffffff;stroke:#d0d7de}
+.h1{font-size:20px;font-weight:600}
+.h2{font-size:15px;font-weight:600}
+.t{font-size:14px}
+.m{fill:#656d76}
+.strong{font-weight:600}
+.btn{fill:#1f2328}
+.btnt{fill:#ffffff;font-size:14px;font-weight:600}
+.ico{fill:none;stroke:#656d76;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.btnico{fill:none;stroke:#ffffff;stroke-width:1.75;stroke-linecap:round}
+.on{fill:#1f883d}
+.knob{fill:#ffffff}
+.rule{stroke:#d8dee4}
+.field{fill:#f6f8fa;stroke:#d0d7de}
+@media (prefers-color-scheme:dark){
+text{fill:#e6edf3}
+.label,.m{fill:#8b949e}
+.card{fill:#0d1117;stroke:#30363d}
+.btn{fill:#e6edf3}
+.btnt{fill:#0d1117}
+.ico{stroke:#8b949e}
+.btnico{stroke:#0d1117}
+.on{fill:#238636}
+.rule{stroke:#21262d}
+.field{fill:#161b22;stroke:#30363d}
+}
+</style><text x="2" y="14" class="label">NOT DESCRIBED</text><rect x="0.5" y="28.5" width="419" height="187" rx="10" class="card"/><text x="24" y="72" class="h1">Options</text><text x="24" y="112" class="h2">Other</text><line x1="24" x2="396" y1="126" y2="126" class="rule"/><text x="24" y="152" class="t">Priority support</text><line x1="24" x2="396" y1="166" y2="166" class="rule"/><text x="24" y="192" class="t">Custom domain</text></svg>
